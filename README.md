@@ -65,6 +65,9 @@ pandas, numpy, sqlalchemy, mysql-connector-python, psycopg2
 |-- requirements.txt          # List of required Python libraries
 
 # Results and Insights
+<img width="685" height="340" alt="result" src="https://github.com/user-attachments/assets/2843015f-2087-4cce-9e2e-d5f1e237f256" />
+<img width="649" height="330" alt="1" src="https://github.com/user-attachments/assets/265ddad5-8add-4b4e-be1e-2752ee91999e" />
+
 This section will include your analysis findings:
 Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
 Profitability: Insights into the most profitable product categories and locations.
